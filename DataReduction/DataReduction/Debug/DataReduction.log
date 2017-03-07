@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\jeff\documents\visual studio 2015\projects\datareduction\datareduction\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\documents\visual studio 2015\projects\datareduction\datareduction\main.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\documents\visual studio 2015\projects\datareduction\datareduction\main.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeff\documents\visual studio 2015\projects\datareduction\datareduction\main.cpp(123): warning C4018: '>': signed/unsigned mismatch
+  DataReduction.vcxproj -> C:\Users\Jeff\documents\visual studio 2015\Projects\DataReduction\Debug\DataReduction.exe
+  DataReduction.vcxproj -> C:\Users\Jeff\documents\visual studio 2015\Projects\DataReduction\Debug\DataReduction.pdb (Partial PDB)
